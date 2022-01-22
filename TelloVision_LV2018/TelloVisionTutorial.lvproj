@@ -21,6 +21,7 @@
 			</Item>
 			<Item Name="TypeDef" Type="Folder">
 				<Item Name="TelloIP.ctl" Type="VI" URL="../Library/Central Controller/TypeDef/TelloIP.ctl"/>
+				<Item Name="TelloCommands.ctl" Type="VI" URL="../Library/Central Controller/TypeDef/TelloCommands.ctl"/>
 			</Item>
 			<Item Name="Example" Type="Folder">
 				<Item Name="keyboardTester.vi" Type="VI" URL="../keyboardTester.vi"/>
@@ -87,7 +88,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="TelloCommands.ctl" Type="VI" URL="../Library/Central Controller/TypeDef/TelloCommands.ctl"/>
 			<Item Name="VideoOutState.ctl" Type="VI" URL="../Library/Central Controller/TypeDef/VideoOutState.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
