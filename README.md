@@ -39,7 +39,7 @@ LabVIEW 2018 (含以後) 的版本才支援 Python node，2018 支援 Python 2.7
 
 
 
-6. 要用 LabVIEW 來擷取 USB 攝影機影像的話，還要再裝 [Vision Acquisition Software](https://www.ni.com/zh-tw/support/downloads/drivers/download.vision-acquisition-software.html#) (VAS)，跟 5. 的 VDM 一樣，它會自動選擇要安裝的版本。 \
+6. 要用 LabVIEW 來擷取 USB 攝影機影像的話，還要再裝 [Vision Acquisition Software](https://www.ni.com/zh-tw/support/downloads/drivers/download.vision-acquisition-software.html#) (VAS)，跟 5. 的 VDM 一樣，它會自動選擇要安裝的版本。 
  
 裝完一樣要重開機
 
@@ -101,5 +101,5 @@ $pip install opencv-python
 
 4. TelloDemoExample.vi
 
-    就是我們 DEMO 的程式，沒有特別整理，但是有一些組合上面範例的參考，也有用到 keyboardTester.vi 來讓 Tello 可以被鍵盤操控飛行，不一定要提供給同學。 
+    就是我們 DEMO 的程式，沒有特別整理，但是有一些組合上面範例的參考，也有用到 keyboardTester.vi 來讓 Tello 可以被鍵盤操控飛行。 
 
